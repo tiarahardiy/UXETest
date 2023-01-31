@@ -1,7 +1,16 @@
+.bg-pp{
+  background-color: #61dafb;
+  padding :50px 0;
+}
 .App {
-  text-align: center;
+ display: flex;
+ margin-left:20px;
+ margin-top:10px;
 }
 
+.ms-2{
+  margin-left:10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
